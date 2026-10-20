@@ -9,7 +9,7 @@ data class Cookie(
 
 val cookies = listOf(
     Cookie(
-        name = "Chocolate Chip",
+        name = "Chocolate Chi",
         softBaked = false,
         hasFilling = false,
         price = 1.69
